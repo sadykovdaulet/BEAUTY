@@ -1,0 +1,9 @@
+body{
+    background: #EFEFEF;
+    font-family: 'Roboto', sans-serif;
+}
+.nav{
+    display: flex;
+    list-style-type: none;
+    justify-content: сenter;
+}
